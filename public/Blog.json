@@ -1,0 +1,41 @@
+[
+    {
+      "id": 987654,
+      "cover": "https://i.ibb.co/HGQ2b9G/8511058.jpg",
+      "title": "The Galactic Adventure",
+      "author": "Stella Starburst",
+      "author_img": "https://i.ibb.co/HGQ2b9G/8511058.jpg",
+      "posted": "2024-03-12",
+      "reading_time": 15,
+      "hashtags": ["#space", "#adventure", "#fiction"]
+    },
+    {
+      "id": 123456,
+      "cover": "https://i.ibb.co/Y2xcYZ3/7340159.jpg",
+      "title": "Secrets of the Lost Temple",
+      "author": "Max Mystery",
+      "author_img": "https://i.ibb.co/Y2xcYZ3/7340159.jpg",
+      "posted": "2024-03-11",
+      "reading_time": 20,
+      "hashtags": ["#mystery", "#adventure", "#history"]
+    },
+    {
+      "id": 246810,
+      "cover": "https://i.ibb.co/dmJS2Xx/19513094-1.jpg",
+      "title": "The Enchanted Forest",
+      "author": "Luna Leaf",
+      "author_img": "https://i.ibb.co/dmJS2Xx/19513094-1.jpg",
+      "posted": "2024-03-10",
+      "reading_time":25,
+      "hashtags": ["#fantasy", "#magic", "#nature"]
+    },
+    {
+      "id": 135792,
+      "cover": "https://i.ibb.co/6ZMLxcS/6170792-1.jpg",
+      "title": "Cybernetic Dreams",
+      "author": "Neo Byte",
+      "author_img": "https://i.ibb.co/6ZMLxcS/6170792-1.jpg",
+      "posted": "2024-03-09",
+      "reading_time": 30,
+      "hashtags": ["#scifi", "#technology", "#future"]
+    }]
